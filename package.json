@@ -1,0 +1,17 @@
+{
+  "name": "discord-ufs-card-bot",
+  "version": "1.0.0",
+  "description": "UFS Card bot for discord",
+  "main": "server.js",
+  "repository": "",
+  "author": "Allen Hunn",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "global": "^4.3.2",
+    "heroku": "^0.2.0",
+    "request": "^2.83.0",
+    "winston": "^2.3.1"
+  }
+}
